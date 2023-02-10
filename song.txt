@@ -1,2 +1,3 @@
 dsvdsv
-ещё строка
+
+add new some changes for working git gui
